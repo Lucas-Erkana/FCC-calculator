@@ -1,10 +1,12 @@
 # Calculator with React
 
 This project is a simple calculator built as part of the FreeCodeCamp curriculum. It's a web application that allows users to perform basic arithmetic operations. The calculator follows formula logic and observes the order of operation precedence.
+## App screenshot
+![image](https://github.com/Lucas-Erkana/FCC-calculator/assets/41428579/760111f2-ccd5-44f5-a659-32ed8953dc56)
 
 ## Live Demo
 
-To see this project's live demo, please click [here](insert link to live demo).
+To see this project's live demo, please click [here](https://fcc-calculator-lucas.netlify.app/).
 
 ## Built With
 
